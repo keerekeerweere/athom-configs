@@ -2,7 +2,7 @@
   "chipFamily": "ESP8266",
   "ota": {
     "path": "athom-mini-switch-esp8266/athom-mini-switch-esp8266.ota.bin",
-    "md5": "4ad5752d7d7f16c49d772eb1b71517f8"
+    "md5": "ca86a080af2bcc2b478471bc45c08087"
   },
   "parts": [
     {
