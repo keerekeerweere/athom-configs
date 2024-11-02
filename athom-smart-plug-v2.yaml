@@ -190,6 +190,7 @@ sensor:
     current:
       name: "Current"
       filters:
+        - throttle_average: ${sensor_update_interval}
         - lambda: if (x < 0.060) return 0.0; else return x;   #For the chip will report less than 3w power when no load is connected
       on_value_range:
         - above: ${current_limit}
