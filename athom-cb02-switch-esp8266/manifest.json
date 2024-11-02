@@ -2,7 +2,7 @@
   "chipFamily": "ESP8266",
   "ota": {
     "path": "athom-cb02-switch-esp8266/athom-cb02-switch-esp8266.ota.bin",
-    "md5": "ccf5a92967e7a03512bec765445a62f3"
+    "md5": "29504596caad1bb387a32041cffc8c98"
   },
   "parts": [
     {
